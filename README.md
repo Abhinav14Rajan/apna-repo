@@ -1,2 +1,3 @@
 # apna-repo
-Author - Abhinav Rajan
+This is my new repository
+Author - Abhinav Gupta
